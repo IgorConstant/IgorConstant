@@ -2,15 +2,24 @@
 
 **`Desenvolvedor Front-end`**
 
-Tenho experiência em Desenvolvimento Web, com domínio de tecnologias como VueJS, Angular, conhecimento nas frameworks Bootstrap 5.3, Uikit, Tailwind e nas ferramentas de automatização Gulp e Vite. 
+Tenho sólida experiência em Desenvolvimento Web, trabalhando com frameworks como VueJS e Angular, além de domínio em ferramentas de estilo como Bootstrap 5.3, Uikit e Tailwind. No dia a dia, também utilizo Gulp e Vite para otimizar e agilizar os processos de desenvolvimento.
 
-Também possuo conhecimento em linguagens de Back-end como NodeJS, Python, PHP com maior foco nas frameworks CodeIgniter 3 e Laravel em sua versão 12.
+No back-end, atuo com NodeJS, Python e PHP, com foco especial nas frameworks CodeIgniter 3 e Laravel (versão 12).
 
-Sou um profissional colaborativo, com excelente comunicação e facilidade para atuar em equipes multidisciplinares, contribuindo para o sucesso de projetos de forma eficiente e organizada.
+Sou uma pessoa comunicativa, que valoriza o trabalho em equipe e está sempre pronta para colaborar com times multidisciplinares. Procuro contribuir de forma organizada, prática e eficiente para o avanço dos projetos e a conquista de bons resultados.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
 <img 
     align="left" 
