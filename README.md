@@ -1,16 +1,13 @@
-# Igor H. Constant
+# Hi! I'm, Igor H. Constant
 
-**`Desenvolvedor Front-end`**
+**`Front-end Analyst`**
 
-Tenho sólida experiência em Desenvolvimento Web, trabalhando com frameworks como VueJS e Angular, além de domínio em ferramentas de estilo como Bootstrap 5.3, Uikit e Tailwind. No dia a dia, também utilizo Gulp e Vite para otimizar e agilizar os processos de desenvolvimento.
+What's up? Awesome to meet you! 👋 When I'm not busy building cool stuff, you can find me diving into music, catching some sports, getting lost in writing, or leveling up in games. I've also got 5+ years of experience crafting awesome websites and systems.
 
-No back-end, atuo com NodeJS, Python e PHP, com foco especial nas frameworks CodeIgniter 3 e Laravel (versão 12).
-
-Sou uma pessoa comunicativa, que valoriza o trabalho em equipe e está sempre pronta para colaborar com times multidisciplinares. Procuro contribuir de forma organizada, prática e eficiente para o avanço dos projetos e a conquista de bons resultados.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -100,7 +97,7 @@ Sou uma pessoa comunicativa, que valoriza o trabalho em equipe e está sempre pr
 <br />
 
 
-### Contato
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igor-h-constant-2b2190113/)
 
