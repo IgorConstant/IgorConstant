@@ -1,6 +1,6 @@
-# Hi! I'm, Igor H. Constant
+# Hey! I'm, Igor 
 
-**`Front-end Analyst`**
+**`Full Stack Developer`**
 
 What's up? Awesome to meet you! 👋 When I'm not busy building cool stuff, you can find me diving into music, catching some sports, getting lost in writing, or leveling up in games. I've also got 5+ years of experience crafting awesome websites and systems.
 
