@@ -1,9 +1,12 @@
-# Hey! I'm, Igor 
+👋 Hi, I’m Igor Constant!
 
-**`Full Stack Developer`**
+I’m a Full-Stack Developer with 5+ years of experience crafting high-performance web platforms and backend solutions. I love turning ideas into clean, efficient code and creating great user experiences.
 
-What's up? Awesome to meet you! 👋 When I'm not busy building cool stuff, you can find me diving into music, catching some sports, getting lost in writing, or leveling up in games. I've also got 5+ years of experience crafting awesome websites and systems.
+💻 Building: Web platforms, frontend architecture & backend microservices
 
+🎧 Beyond coding: Music, creative writing & gaming
+
+⚡ Current focus: Modern web frameworks, performance & scalable code"
 
 ---
 
