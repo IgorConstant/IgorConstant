@@ -6,8 +6,6 @@ I’m a Full-Stack Developer with 5+ years of experience crafting high-performan
 
 🎧 Beyond coding: Music, creative writing & gaming
 
-⚡ Current focus: Modern web frameworks, performance & scalable code"
-
 ---
 
 ### 🤖 Languages & Technologies
